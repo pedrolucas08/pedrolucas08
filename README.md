@@ -21,11 +21,11 @@ Desenvolvedor Web com 23 anos, focado em criar soluções modernas e responsivas
 ## 🚀 Projetos
 
 ### 🏢 AMR Empreendimentos
-Site corporativo desenvolvido para empresa do setor imobiliário.  
+Site corporativo desenvolvido para empresa Amr Serviços e Empreendimentos. 
 [Ver site](https://amrempreendimentos.com.br)
 
 ### 🌳 Nelsilvan Eco Trilhas
-Plataforma para serviço de trilhas ecológicas.  
+Site para um guia de turismo.  
 [Ver site](https://nelsilvan-eco-trilhas.vercel.app/)
 
 ## 📚 Formação
