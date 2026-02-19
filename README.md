@@ -33,9 +33,9 @@ Site para um guia de turismo.
 
 ## 📚 Formação
 
-  •	Engenharia de Software - Graduação - UniCesumar - 09/2025 - 2029 
-  •	Desenvolvedor Full Stack Java – Curso livre profissionalizante – EBAC - 06/2024 a 06/2026 
-  •	Análise e Desenvolvimento de Sistemas – Tecnólogo – Unopar – 08/2022 a 06/2024 (incompleto)
+  •	Engenharia de Software - Graduação - UniCesumar - 09/2025 - 2029\n
+  •	Desenvolvedor Full Stack Java – Curso livre profissionalizante – EBAC - 06/2024 a 06/2026\n
+  •	Análise e Desenvolvimento de Sistemas – Tecnólogo – Unopar – 08/2022 a 06/2024 (incompleto)\n
 
 
 ## 📊 Estatísticas GitHub
