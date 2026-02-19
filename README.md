@@ -83,9 +83,10 @@ Desenvolvedor Web com 24 anos, focado em criar soluções modernas e responsivas
 
 ## 📊 Estatísticas GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=pedrolucas08&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolucas08&show_icons=true&theme=github_dark)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucas08&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucas08&layout=compact&theme=github_dark)
+
 
 ## 🎯 Objetivos
 
