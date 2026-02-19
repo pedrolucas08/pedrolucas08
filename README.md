@@ -21,23 +21,64 @@ Desenvolvedor Web com 24 anos, focado em criar soluções modernas e responsivas
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
-## 🚀 Projetos
-
-### 🏢 AMR Empreendimentos
-Site corporativo desenvolvido para empresa Amr Serviços e Empreendimentos. 
-[Ver site](https://amrempreendimentos.com.br)
-
-### 🌳 Nelsilvan Eco Trilhas
-Site para um guia de turismo.  
-[Ver site](https://nelsilvan-eco-trilhas.vercel.app/)
-
 ## 📚 Formação
 
-  •	Engenharia de Software - Graduação - UniCesumar - 09/2025 - 2029
+-	Engenharia de Software - Graduação - UniCesumar - 09/2025 - 2029
   
-  •	Desenvolvedor Full Stack Java – Curso livre profissionalizante – EBAC - 06/2024 a 06/2026
+-	Desenvolvedor Full Stack Java – Curso livre profissionalizante – EBAC - 06/2024 a 06/2026
   
-  •	Análise e Desenvolvimento de Sistemas – Tecnólogo – Unopar – 08/2022 a 06/2024 (incompleto)
+-	Análise e Desenvolvimento de Sistemas – Tecnólogo – Unopar – 08/2022 a 06/2024 (incompleto)
+
+## Experiência Profissional 
+### Freelancer - Desenvolvedor Full Stack | Trabalho Remoto - (2024 - Atual) 
+#### Atuação no desenvolvimento de aplicações web personalizadas, incluindo levantamento de requisitos, desenvolvimento e entrega finall.
+- Desenvolvimento de sites institucionais e sistemas personalizados para clientes;
+
+- Implementação de interfaces responsivas com React.js, Next.js, Tailwind CSS e Material UI;
+
+- Integração de APIs e desenvolvimento de back-end com Node.js, Express, Prisma ORM e bancos de dados;
+
+- Garantia de usabilidade, performance e segurança das aplicações.
+
+### Gestor de Contratos - Prefeitura Municipal de Divinópolis de Goiás - (jan/2025-mar/2025)
+
+-	Edição, revisão e controle de contratos de funcionários, prestadores de serviços e empresas;
+
+-	Organização de documentos e registro de informações em sistema administrativo;
+
+-	Acompanhamento de prazos contratuais e suporte às demandas de secretarias municipais.
+
+
+### Escola Monteiro Lobato - Objetivo (Luis Eduardo Magalhães/BA) - (mai/2023-jul/2023)
+
+#### Auxiliar administrativo
+
+-	Diagramação e formatação de provas, simulados e documentos escolares utilizando Microsoft Word e Excel;
+
+-	Realização de impressões e organização de materiais;
+
+-	Atendimento telefônico, suporte à secretaria e auxílio no cuidado com alunos.
+
+## 🚀 Projetos
+
+### [Site Institucional – Casa do Criador](https://casa-do-criador-omega.vercel.app/) - ago/2025
+#### Freelancer
+
+-	Desenvolvimento de site de apresentação de empresa. 
+-	Desenvolvida em Next.js, Typescript, Tailwind CSS e bibliotecas de ícones.
+
+
+### [Site para Guia de Turismo](https://nelsilvan-eco-trilhas.vercel.app/) - jun/2024
+#### Freelancer
+
+-	Criação de plataforma interativa para apresentação de serviços.
+-	Utilizando React.js, Tailwind CSS, Bootstrap Icons, ScrollReveal no front-end e Node.js, Express, MongoDB e Mongoose no back-end.
+
+### [Site institucional – Amr Empreendimentos](https://amrempreendimentos.com.br/) - abr/2024
+#### Freelancer
+
+-	Desenvolvimento de página de apresentação de empresa.
+-	Utilizando React.js, Tailwind CSS, Material UI, ScrollReveal e bibliotecas de carrossel para destaque de serviços e portfólio.
 
 
 ## 📊 Estatísticas GitHub
