@@ -33,7 +33,10 @@ Site para um guia de turismo.
 
 ## 📚 Formação
 
-Atualmente cursando **Desenvolvedor Fullstack Java** na EBAC (Escola Britânica de Artes Criativas e Tecnologia).
+  •	Engenharia de Software - Graduação - UniCesumar - 09/2025 - 2029 
+  •	Desenvolvedor Full Stack Java – Curso livre profissionalizante – EBAC - 06/2024 a 06/2026 
+  •	Análise e Desenvolvimento de Sistemas – Tecnólogo – Unopar – 08/2022 a 06/2024 (incompleto)
+
 
 ## 📊 Estatísticas GitHub
 
