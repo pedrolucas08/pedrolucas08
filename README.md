@@ -5,7 +5,7 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor Web com 23 anos, focado em criar soluções modernas e responsivas. Atualmente em busca de oportunidades para iniciar na carreira de desenvolvimento.
+Desenvolvedor Web com 24 anos, focado em criar soluções modernas e responsivas. Atualmente em busca de oportunidades para iniciar na carreira de desenvolvimento.
 
 ## 💻 Stack Tecnológica
 
@@ -15,7 +15,6 @@ Desenvolvedor Web com 23 anos, focado em criar soluções modernas e responsivas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🚀 Projetos
