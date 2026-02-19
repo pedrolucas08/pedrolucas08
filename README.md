@@ -80,14 +80,6 @@ Desenvolvedor Web com 24 anos, focado em criar soluções modernas e responsivas
 -	Desenvolvimento de página de apresentação de empresa.
 -	Utilizando React.js, Tailwind CSS, Material UI, ScrollReveal e bibliotecas de carrossel para destaque de serviços e portfólio.
 
-
-## 📊 Estatísticas GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolucas08&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucas08&layout=compact&theme=github_dark)
-
-
 ## 🎯 Objetivos
 
 - Iniciar carreira como desenvolvedor web
